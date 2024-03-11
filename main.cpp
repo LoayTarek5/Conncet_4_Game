@@ -7,7 +7,6 @@ However, if all the numbers are used and no player gets exactly 15, the game is 
 */
 // Author: Loay Tarek Mostafa El-Nomani
 // Version: 4.0
-// ID: 20230298
 // Date: 2/29/2024
 
 
